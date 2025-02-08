@@ -1,1 +1,1 @@
-{"image": ["png", "jpeg", "jpg", "ico"], "documents": ["txt", "pdf", "docx", "rtf"]}
+{"image": ["png", "jpeg", "jpg", "ico"], "documents": ["txt", "pdf", "docx", "rtf"], "audio": ["mp3", "wav"], "excel": ["xlsx", "csv"], "compressed": ["rar", "zip"], "vido": ["mp4", "avi"], "pictoblockx": ["sb3"], "run": ["exe"], "multisim": ["ms13"]}
