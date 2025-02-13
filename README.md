@@ -1,5 +1,7 @@
 # **📂 FileSorter - Automated File Organizer**
 
+![CS50P](https://certificates.cs50.io/2cec9ded-fb7d-4e13-aba2-000ca400f345.png?size=letter)
+
 ## **📌 Project Summary**
 
 **FileSorter** is a Python-based script designed to **automatically organize files** into categorized folders based on their extensions. It helps keep directories tidy by grouping files into logical categories such as "Documents," "Images," "Music," etc.
